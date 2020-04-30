@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Rubezh2\Rubezh2\bin\Debug\Rubezh2.exe.config
+C:\Users\user\Documents\c# test\Rubezh2\Rubezh2\bin\Debug\Rubezh2.exe
+C:\Users\user\Documents\c# test\Rubezh2\Rubezh2\bin\Debug\Rubezh2.pdb
+C:\Users\user\Documents\c# test\Rubezh2\Rubezh2\obj\Debug\Rubezh2.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Rubezh2\Rubezh2\obj\Debug\Rubezh2.exe
+C:\Users\user\Documents\c# test\Rubezh2\Rubezh2\obj\Debug\Rubezh2.pdb

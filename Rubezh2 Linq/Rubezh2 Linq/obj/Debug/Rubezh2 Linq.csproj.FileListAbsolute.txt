@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Rubezh2 Linq\Rubezh2 Linq\bin\Debug\Rubezh2 Linq.exe.config
+C:\Users\user\Documents\c# test\Rubezh2 Linq\Rubezh2 Linq\bin\Debug\Rubezh2 Linq.exe
+C:\Users\user\Documents\c# test\Rubezh2 Linq\Rubezh2 Linq\bin\Debug\Rubezh2 Linq.pdb
+C:\Users\user\Documents\c# test\Rubezh2 Linq\Rubezh2 Linq\obj\Debug\Rubezh2 Linq.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Rubezh2 Linq\Rubezh2 Linq\obj\Debug\Rubezh2 Linq.exe
+C:\Users\user\Documents\c# test\Rubezh2 Linq\Rubezh2 Linq\obj\Debug\Rubezh2 Linq.pdb
